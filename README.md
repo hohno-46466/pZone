@@ -1,5 +1,33 @@
+# pZone
+Private Zone
 
-pZone
+    ./pZone
+     |-- 00README.txt
+     `-- README.md
+
+    ./pZone--dictionaries
+     |-- README.md
+     `-- kotoeri
+         |-- Dict
+         |   |-- myDict-20210628-1-p2c-win.txt
+         |   |-- myDict-20210628-1-p2c.csv
+         |   `-- myDict-20210628-1.plist
+         |-- README.md
+         `-- Script
+             |-- csv-to-plist.sh
+             |-- macDict2winDict.sh
+             `-- plist-to-csv.sh
+
+    ./pZone--dotFiles
+     |-- 00doit.sh
+     |-- README.md
+     |-- dot.msmtprc
+     `-- dot.muttrc
+
+     3 directories, 15 files (Tue Jun 29 06:21:59 JST 2021)
+
+<!---
+
 ====
 
 ## Overview
@@ -41,3 +69,5 @@ undefined.
 See also 00README.txt, if prepared.
 
 Thu Apr  9 14:57:40 JST 2020
+
+-->
