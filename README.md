@@ -1,11 +1,11 @@
 # pZone
-Private Zone
+Private / Public Zone
 
     ./pZone
      |-- 00README.txt
      `-- README.md
 
-    ./pZone--dictionaries
+    ./pZone--private--dictionaries # private repository
      |-- README.md
      `-- kotoeri
          |-- Dict
@@ -18,7 +18,7 @@ Private Zone
              |-- macDict2winDict.sh
              `-- plist-to-csv.sh
 
-    ./pZone--dotFiles
+    ./pZone--private--dotFiles # private repository
      |-- 00doit.sh
      |-- README.md
      |-- dot.msmtprc
