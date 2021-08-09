@@ -1,5 +1,4 @@
-# pZone
-Private / Public Zone
+# pZone - Private / Public Zone
 
     ./pZone
      |-- 00README.txt
