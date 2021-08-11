@@ -1,4 +1,4 @@
-# pZone - Private / Public Zone
+# GitHub/pZone - Private / Public Zone
 
     ./pZone
      |-- 00README.txt
@@ -70,3 +70,5 @@ See also 00README.txt, if prepared.
 Thu Apr  9 14:57:40 JST 2020
 
 -->
+
+-EOF-
