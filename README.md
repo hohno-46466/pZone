@@ -71,4 +71,6 @@ Thu Apr  9 14:57:40 JST 2020
 
 -->
 
+Note: 	url = https://github.com/hohno-46466/pZone
+
 -EOF-
