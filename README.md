@@ -7,7 +7,7 @@ Private / Public Zone
      ├──   README.md
      └──   README.md.old
      
-     0 directories, 3 files (Sun Jul 10 12:29:01 JST 2022)
+     0 directories, 3 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--private--dictionaries
@@ -26,7 +26,7 @@ Private / Public Zone
              ├──   plist-to-csv.sh
              └──   winDictTXT2macDictCSV.sh
      
-     3 directories, 11 files (Sun Jul 10 12:29:01 JST 2022)
+     3 directories, 11 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--private--dotFiles
@@ -85,7 +85,7 @@ Private / Public Zone
      └──  dot.ssh/
          └──   config
      
-     25 directories, 29 files (Sun Jul 10 12:29:01 JST 2022)
+     25 directories, 29 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--private--settings
@@ -94,7 +94,7 @@ Private / Public Zone
          ├──   README.md
          └──   secret-ap.h
      
-     1 directory, 3 files (Sun Jul 10 12:29:01 JST 2022)
+     1 directory, 3 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--private--smallTools
@@ -109,7 +109,7 @@ Private / Public Zone
          ├──   sakuraVPS2.sh
          └──   socksproxy.sh
      
-     1 directory, 9 files (Sun Jul 10 12:29:01 JST 2022)
+     1 directory, 9 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--private--wordbook
@@ -125,7 +125,7 @@ Private / Public Zone
          ├──   README.md
          └──   word2link.sh
      
-     4 directories, 7 files (Sun Jul 10 12:29:01 JST 2022)
+     4 directories, 7 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--public--dotFiles
@@ -135,7 +135,7 @@ Private / Public Zone
      ├──   dot.inputrc
      └──   dot.screenrc
      
-     0 directories, 5 files (Sun Jul 10 12:29:01 JST 2022)
+     0 directories, 5 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--public--settings
@@ -146,7 +146,7 @@ Private / Public Zone
      └──  mosquitto/
          └──   mosquitto.conf
      
-     2 directories, 4 files (Sun Jul 10 12:29:01 JST 2022)
+     2 directories, 4 files (Tue Jul 12 21:06:46 JST 2022)
 
 
     ./pZone--public--smallTools
@@ -174,7 +174,7 @@ Private / Public Zone
          ├──   z2h -> zen2han
          └──   zen2han
      
-     1 directory, 22 files (Sun Jul 10 12:29:01 JST 2022)
+     1 directory, 22 files (Tue Jul 12 21:06:46 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/pZone
