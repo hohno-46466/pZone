@@ -181,9 +181,9 @@ Private / Public Zone
      1 directory, 22 files (Mon Aug  8 02:56:13 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/pZone
+Note: URL = https://github.com/hohno-46466/pZone
 
-Note: url = git@github.com:hohno-46466/pZone.git
+Note: URL = git@github.com:hohno-46466/pZone.git
 
 -EOF-
 
