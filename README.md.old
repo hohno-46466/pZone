@@ -7,7 +7,7 @@ Private / Public Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Fri Aug 12 21:57:35 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--private--dictionaries
      ├──  ==PrivateRepository==
@@ -24,12 +24,13 @@ Private / Public Zone
          │   └──  myDict-20220811-1.csv
          ├──  README.md
          └──  Script/
+             ├──  README.md
              ├──  csv-to-plist.sh
              ├──  macDictCSV2winDictTXT.sh
              ├──  plist-to-csv.sh
              └──  winDictTXT2macDictCSV.sh
      
-     3 directories, 15 files (Fri Aug 12 21:57:35 JST 2022)
+     3 directories, 16 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--private--dotFiles
      ├──  ==PrivateRepository==
@@ -58,6 +59,10 @@ Private / Public Zone
      │   ├──  init.el.now
      │   └──  transient/
      │       └──  history.el
+     ├──  dot.emacs.d(hohno-MBP-2022P)/
+     │   ├──  Cask
+     │   ├──  init.el
+     │   └──  init.el-20220816-233619
      ├──  dot.emacs.d(hohno-SP6-2019H)/
      │   ├──  Cask
      │   ├──  auto-save-list/
@@ -89,7 +94,7 @@ Private / Public Zone
      └──  dot.ssh/
          └──  config
      
-     25 directories, 31 files (Fri Aug 12 21:57:35 JST 2022)
+     26 directories, 34 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--private--settings
      ├──  ==PrivateRepository==
@@ -100,7 +105,7 @@ Private / Public Zone
          ├──  github
          └──  secret-ap.h
      
-     1 directory, 6 files (Fri Aug 12 21:57:35 JST 2022)
+     1 directory, 6 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--private--smallTools
      ├──  ==PrivateRepository==
@@ -116,7 +121,7 @@ Private / Public Zone
          ├──  sakuraVPS2.sh
          └──  socksproxy.sh
      
-     1 directory, 11 files (Fri Aug 12 21:57:35 JST 2022)
+     1 directory, 11 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--private--wordbook
      ├──  ==PrivateRepository==
@@ -133,7 +138,7 @@ Private / Public Zone
          ├──  README.md
          └──  word2link.sh
      
-     4 directories, 9 files (Fri Aug 12 21:57:35 JST 2022)
+     4 directories, 9 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--public--dotFiles
      ├──  README.md
@@ -143,7 +148,7 @@ Private / Public Zone
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Fri Aug 12 21:57:35 JST 2022)
+     0 directories, 6 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--public--settings
      ├──  README.md
@@ -154,7 +159,7 @@ Private / Public Zone
      └──  mosquitto/
          └──  mosquitto.conf
      
-     2 directories, 5 files (Fri Aug 12 21:57:35 JST 2022)
+     2 directories, 5 files (Sat Aug 20 23:45:40 JST 2022)
 
     ./pZone--public--smallTools
      ├──  README.md
@@ -164,6 +169,7 @@ Private / Public Zone
          ├──  DHdemo.sh
          ├──  QRclock2.sh
          ├──  addts.sh
+         ├──  bkwt.sh
          ├──  cdate
          ├──  h2z -> han2zen
          ├──  han2zen
@@ -181,7 +187,7 @@ Private / Public Zone
          ├──  z2h -> zen2han
          └──  zen2han
      
-     1 directory, 22 files (Fri Aug 12 21:57:35 JST 2022)
+     1 directory, 23 files (Sat Aug 20 23:45:40 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone
