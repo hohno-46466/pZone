@@ -2,14 +2,14 @@
 
 Private / Public Zone
 
-    ./pZone
+     ./pZone
      ├──  00README.txt
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Tue Sep  6 22:12:23 JST 2022)
+     0 directories, 3 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--private--dictionaries
+     ./pZone--private--dictionaries
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -30,10 +30,11 @@ Private / Public Zone
              ├──  plist-to-csv.sh
              └──  winDictTXT2macDictCSV.sh
      
-     3 directories, 16 files (Tue Sep  6 22:12:23 JST 2022)
+     3 directories, 16 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--private--dotFiles
+     ./pZone--private--dotFiles
      ├──  ==PrivateRepository==
+     ├──  README-dot-emacs.md
      ├──  README.md
      ├──  README.md.old
      ├──  dot.bash_logout(hohno-SP6-2019H)
@@ -61,11 +62,9 @@ Private / Public Zone
      │       └──  history.el
      ├──  dot.emacs.d(hohno-MBP-2022P)/
      │   ├──  Cask
-     │   ├──  auto-save-list/
      │   ├──  init.el
      │   ├──  init.el-20220816-233619
-     │   ├──  init.el-20220828-214458
-     │   └──  init.el~
+     │   └──  init.el-20220828-214458
      ├──  dot.emacs.d(hohno-SP6-2019H)/
      │   ├──  Cask
      │   ├──  auto-save-list/
@@ -97,26 +96,28 @@ Private / Public Zone
      └──  dot.ssh/
          └──  config
      
-     27 directories, 36 files (Tue Sep  6 22:12:23 JST 2022)
+     26 directories, 36 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--private--settings
+     ./pZone--private--settings
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
      └──  secret/
          ├──  README.md
          ├──  dot.ssh/
-         │   └──  dot.ssh.tgz.zip-kuniko
-         ├──  github
+         │   └──  dot.ssh.tgz.zip-346
+         ├──  github/
+         │   └──  github
          ├──  moca/
          │   ├──  20210621-moca.p12
          │   ├──  moca-14260
          │   └──  moca-14261
-         └──  secret-ap.h
+         └──  secret-ap/
+             └──  secret-ap.h
      
-     3 directories, 10 files (Tue Sep  6 22:12:23 JST 2022)
+     5 directories, 10 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--private--smallTools
+     ./pZone--private--smallTools
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -130,9 +131,9 @@ Private / Public Zone
          ├──  sakuraVPS2.sh
          └──  socksproxy.sh
      
-     1 directory, 11 files (Tue Sep  6 22:12:23 JST 2022)
+     1 directory, 11 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--private--wordbook
+     ./pZone--private--wordbook
      ├──  ==PrivateRepository==
      ├──  English/
      │   ├──  README.md
@@ -147,9 +148,9 @@ Private / Public Zone
          ├──  README.md
          └──  word2link.sh
      
-     4 directories, 9 files (Tue Sep  6 22:12:23 JST 2022)
+     4 directories, 9 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--public--dotFiles
+     ./pZone--public--dotFiles
      ├──  README.md
      ├──  README.md.old
      ├──  dot.bashrc_aliases
@@ -157,9 +158,9 @@ Private / Public Zone
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Tue Sep  6 22:12:23 JST 2022)
+     0 directories, 6 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--public--settings
+     ./pZone--public--settings
      ├──  README.md
      ├──  README.md.old
      ├──  VSCode/
@@ -168,15 +169,16 @@ Private / Public Zone
      └──  mosquitto/
          └──  mosquitto.conf
      
-     2 directories, 5 files (Tue Sep  6 22:12:23 JST 2022)
+     2 directories, 5 files (Mon Sep 19 13:31:26 JST 2022)
 
-    ./pZone--public--smallTools
+     ./pZone--public--smallTools
      ├──  README.md
      ├──  README.md.old
      └──  bin/
          ├──  00doit.sh
          ├──  DHdemo.sh
          ├──  QRclock2.sh
+         ├──  QRclock2G2.sh
          ├──  addts.sh
          ├──  bkwt.sh
          ├──  cdate
@@ -185,6 +187,8 @@ Private / Public Zone
          ├──  mkqrcode-as-text.pl
          ├──  mkqrcode.pl
          ├──  mkqrcode.sh
+         ├──  mkqrcodeG2-as-text.sh
+         ├──  mkqrcodeG2.py
          ├──  p3top6.rb
          ├──  p6top3.rb
          ├──  say-e
@@ -197,7 +201,7 @@ Private / Public Zone
          ├──  z2h -> zen2han
          └──  zen2han
      
-     1 directory, 24 files (Tue Sep  6 22:12:23 JST 2022)
+     1 directory, 27 files (Mon Sep 19 13:31:26 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone
