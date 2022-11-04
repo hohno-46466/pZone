@@ -7,7 +7,7 @@ Private / Public Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Oct 22 22:04:25 JST 2022)
+     0 directories, 3 files (Mon Oct 31 12:37:50 JST 2022)
 
     ./pZone--private--dictionaries
      ├──  ==PrivateRepository==
@@ -15,34 +15,39 @@ Private / Public Zone
      ├──  README.md.old
      └──  kotoeri/
          ├──  Dict/
-         │   ├──  CurrentDict.csv -> myDict-20221015-2.csv
+         │   ├──  OLD/
+         │   │   ├──  myDict-20210628-1-p2c-win-to-Mac-c2p.plist
+         │   │   ├──  myDict-20210628-1-p2c-win-to-Mac.csv
+         │   │   ├──  myDict-20210628-1-p2c-win-utf8.txt
+         │   │   ├──  myDict-20210628-1-p2c-win.txt
+         │   │   ├──  myDict-20210628-1-p2c.csv
+         │   │   ├──  myDict-20210628-1.plist
+         │   │   ├──  myDict-20221001-1-win-to-Mac-c2p-p2c.csv
+         │   │   ├──  myDict-20221001-1-win-to-Mac-c2p.plist
+         │   │   ├──  myDict-20221001-1-win-to-Mac.csv
+         │   │   ├──  myDict-20221001-1-win.txt
+         │   │   ├──  myDict-20221001-1.csv
+         │   │   ├──  myDict-20221015-1-p2c-win-to-Mac-c2p.plist
+         │   │   ├──  myDict-20221015-1-p2c-win-to-Mac.csv
+         │   │   ├──  myDict-20221015-1-p2c-win.txt
+         │   │   ├──  myDict-20221015-1-p2c.csv
+         │   │   ├──  myDict-20221015-1.plist
+         │   │   ├──  myDict-20221015-2-win-to-Mac-c2p-p2c.csv
+         │   │   ├──  myDict-20221015-2-win-to-Mac-c2p.plist
+         │   │   ├──  myDict-20221015-2-win-to-Mac.csv
+         │   │   ├──  myDict-20221015-2-win.txt
+         │   │   ├──  myDict-20221015-2.csv
+         │   │   ├──  myDict-20221017-3-win-to-Mac-c2p-p2c.csv
+         │   │   ├──  myDict-20221017-3-win-to-Mac-c2p.plist
+         │   │   ├──  myDict-20221017-3-win-to-Mac.csv
+         │   │   ├──  myDict-20221017-3-win.txt
+         │   │   └──  myDict-20221017-3.csv
          │   ├──  README.md
-         │   ├──  myDict-20210628-1-p2c-win-to-Mac-c2p.plist
-         │   ├──  myDict-20210628-1-p2c-win-to-Mac.csv
-         │   ├──  myDict-20210628-1-p2c-win-utf8.txt
-         │   ├──  myDict-20210628-1-p2c-win.txt
-         │   ├──  myDict-20210628-1-p2c.csv
-         │   ├──  myDict-20210628-1.plist
-         │   ├──  myDict-20221001-1-win-to-Mac-c2p-p2c.csv
-         │   ├──  myDict-20221001-1-win-to-Mac-c2p.plist
-         │   ├──  myDict-20221001-1-win-to-Mac.csv
-         │   ├──  myDict-20221001-1-win.txt
-         │   ├──  myDict-20221001-1.csv
-         │   ├──  myDict-20221015-1-p2c-win-to-Mac-c2p.plist
-         │   ├──  myDict-20221015-1-p2c-win-to-Mac.csv
-         │   ├──  myDict-20221015-1-p2c-win.txt
-         │   ├──  myDict-20221015-1-p2c.csv
-         │   ├──  myDict-20221015-1.plist
-         │   ├──  myDict-20221015-2-win-to-Mac-c2p-p2c.csv
-         │   ├──  myDict-20221015-2-win-to-Mac-c2p.plist
-         │   ├──  myDict-20221015-2-win-to-Mac.csv
-         │   ├──  myDict-20221015-2-win.txt
-         │   ├──  myDict-20221015-2.csv
-         │   ├──  myDict-20221017-3-win-to-Mac-c2p-p2c.csv
-         │   ├──  myDict-20221017-3-win-to-Mac-c2p.plist
-         │   ├──  myDict-20221017-3-win-to-Mac.csv
-         │   ├──  myDict-20221017-3-win.txt
-         │   ├──  myDict-20221017-3.csv
+         │   ├──  myDict-20221017-4-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20221017-4-win-to-Mac-c2p.plist
+         │   ├──  myDict-20221017-4-win-to-Mac.csv
+         │   ├──  myDict-20221017-4-win.txt
+         │   ├──  myDict-20221017-4.csv
          │   ├──  test1(plist-to-plist).sh
          │   └──  test2(csv-to-csv).sh
          ├──  README.md
@@ -53,7 +58,7 @@ Private / Public Zone
              ├──  plist-to-csv.sh
              └──  winDictTXT2macDictCSV.sh
      
-     3 directories, 39 files (Sat Oct 22 22:04:26 JST 2022)
+     4 directories, 43 files (Mon Oct 31 12:37:50 JST 2022)
 
     ./pZone--private--dotFiles
      ├──  ==PrivateRepository==
@@ -120,7 +125,7 @@ Private / Public Zone
      └──  dot.ssh/
          └──  config
      
-     27 directories, 36 files (Sat Oct 22 22:04:26 JST 2022)
+     27 directories, 36 files (Mon Oct 31 12:37:50 JST 2022)
 
     ./pZone--private--settings
      ├──  ==PrivateRepository==
@@ -139,7 +144,7 @@ Private / Public Zone
          └──  secret-ap/
              └──  secret-ap.h
      
-     5 directories, 10 files (Sat Oct 22 22:04:26 JST 2022)
+     5 directories, 10 files (Mon Oct 31 12:37:50 JST 2022)
 
     ./pZone--private--smallTools
      ├──  ==PrivateRepository==
@@ -155,7 +160,7 @@ Private / Public Zone
          ├──  sakuraVPS2.sh
          └──  socksproxy.sh
      
-     1 directory, 11 files (Sat Oct 22 22:04:26 JST 2022)
+     1 directory, 11 files (Mon Oct 31 12:37:50 JST 2022)
 
     ./pZone--private--wordbook
      ├──  ==PrivateRepository==
@@ -172,7 +177,7 @@ Private / Public Zone
          ├──  README.md
          └──  word2link.sh
      
-     4 directories, 9 files (Sat Oct 22 22:04:26 JST 2022)
+     4 directories, 9 files (Mon Oct 31 12:37:51 JST 2022)
 
     ./pZone--public--dotFiles
      ├──  README.md
@@ -182,7 +187,7 @@ Private / Public Zone
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Sat Oct 22 22:04:26 JST 2022)
+     0 directories, 6 files (Mon Oct 31 12:37:51 JST 2022)
 
     ./pZone--public--settings
      ├──  README.md
@@ -193,7 +198,7 @@ Private / Public Zone
      └──  mosquitto/
          └──  mosquitto.conf
      
-     2 directories, 5 files (Sat Oct 22 22:04:26 JST 2022)
+     2 directories, 5 files (Mon Oct 31 12:37:51 JST 2022)
 
     ./pZone--public--smallTools
      ├──  README.md
@@ -226,7 +231,7 @@ Private / Public Zone
          ├──  z2h -> zen2han
          └──  zen2han
      
-     1 directory, 28 files (Sat Oct 22 22:04:26 JST 2022)
+     1 directory, 28 files (Mon Oct 31 12:37:51 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone
