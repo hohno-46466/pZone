@@ -2,14 +2,15 @@
 
 Private / Public Zone
 
-     ./pZone
+    ./pZone
      ├──  00README.txt
+     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Wed Dec 21 19:01:18 JST 2022)
+     0 directories, 4 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--private--dictionaries
+    ./pZone--private--dictionaries
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -57,6 +58,7 @@ Private / Public Zone
          │   ├──  test1(plist-to-plist).sh
          │   └──  test2(csv-to-csv).sh
          ├──  README.md
+         ├──  README.md.bak
          └──  Script/
              ├──  README.md
              ├──  csv-to-plist.sh
@@ -64,9 +66,9 @@ Private / Public Zone
              ├──  plist-to-csv.sh
              └──  winDictTXT2macDictCSV.sh
      
-     4 directories, 49 files (Wed Dec 21 19:01:18 JST 2022)
+     4 directories, 50 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--private--dotFiles
+    ./pZone--private--dotFiles
      ├──  ==PrivateRepository==
      ├──  README-dot-emacs.md
      ├──  README.md
@@ -96,6 +98,7 @@ Private / Public Zone
      │       └──  history.el
      ├──  dot.emacs.d(hohno-MBP-2022P)/
      │   ├──  Cask
+     │   ├──  auto-save-list/
      │   ├──  init.el
      │   ├──  init.el-20220816-233619
      │   └──  init.el-20220828-214458
@@ -133,9 +136,9 @@ Private / Public Zone
      └──  dot.ssh/
          └──  config
      
-     27 directories, 38 files (Wed Dec 21 19:01:18 JST 2022)
+     28 directories, 38 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--private--settings
+    ./pZone--private--settings
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -153,9 +156,9 @@ Private / Public Zone
          └──  secret-ap/
              └──  secret-ap.h
      
-     5 directories, 11 files (Wed Dec 21 19:01:18 JST 2022)
+     5 directories, 11 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--private--smallTools
+    ./pZone--private--smallTools
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -169,9 +172,9 @@ Private / Public Zone
          ├──  sakuraVPS2.sh
          └──  socksproxy.sh
      
-     1 directory, 11 files (Wed Dec 21 19:01:19 JST 2022)
+     1 directory, 11 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--private--wordbook
+    ./pZone--private--wordbook
      ├──  ==PrivateRepository==
      ├──  English/
      │   ├──  README.md
@@ -186,9 +189,9 @@ Private / Public Zone
          ├──  README.md
          └──  word2link.sh
      
-     4 directories, 9 files (Wed Dec 21 19:01:19 JST 2022)
+     4 directories, 9 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--public--dotFiles
+    ./pZone--public--dotFiles
      ├──  README.md
      ├──  README.md.old
      ├──  dot.bashrc_aliases
@@ -196,9 +199,9 @@ Private / Public Zone
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Wed Dec 21 19:01:19 JST 2022)
+     0 directories, 6 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--public--settings
+    ./pZone--public--settings
      ├──  README.md
      ├──  README.md.old
      ├──  VSCode/
@@ -207,9 +210,9 @@ Private / Public Zone
      └──  mosquitto/
          └──  mosquitto.conf
      
-     2 directories, 5 files (Wed Dec 21 19:01:19 JST 2022)
+     2 directories, 5 files (Thu Dec 22 04:09:35 JST 2022)
 
-     ./pZone--public--smallTools
+    ./pZone--public--smallTools
      ├──  README.md
      ├──  README.md.old
      └──  bin/
@@ -219,7 +222,9 @@ Private / Public Zone
          ├──  QRclock2G2.sh
          ├──  addpath.sh
          ├──  addts.sh
+         ├──  addts.sh.bak
          ├──  bkwt.sh
+         ├──  bkwt.sh.bak
          ├──  cdate
          ├──  h2z -> han2zen
          ├──  han2zen
@@ -231,6 +236,7 @@ Private / Public Zone
          ├──  p3top6.rb
          ├──  p6top3.rb
          ├──  pdf-to-2x5nameCards.sh
+         ├──  pdf-to-2x5nameCards.sh.bak
          ├──  say-e
          ├──  say-j
          ├──  scale
@@ -241,7 +247,7 @@ Private / Public Zone
          ├──  z2h -> zen2han
          └──  zen2han
      
-     1 directory, 29 files (Wed Dec 21 19:01:19 JST 2022)
+     1 directory, 32 files (Thu Dec 22 04:09:35 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/pZone
