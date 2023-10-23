@@ -2,61 +2,71 @@
 
 Private / Public Zone
 
-     ./pZone
+    ./pZone
      ├──  00README.txt
+     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Tue Jan 31 05:58:50 JST 2023)
+     1 directory, 4 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--private--dictionaries
+    ./pZone--private--AIN
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     └──  memo/
+         ├──  OLDversion/
+         │   └──  TechTips_ ソフトウエアのインストールおよび更新状況 （2023-05-01〜）-20230512-120528.pdf
+         ├──  TechTips_ ソフトウエアのインストールおよび更新状況 （2023-05-01〜）.pdf
+         └──  doit.sh
+     
+     3 directories, 6 files (Tue Oct 24 05:56:32 JST 2023)
+
+    ./pZone--private--dictionaries
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
      └──  kotoeri/
          ├──  Dict/
          │   ├──  OLD/
-         │   │   ├──  myDict-20210628-1-p2c-win-to-Mac-c2p.plist
-         │   │   ├──  myDict-20210628-1-p2c-win-to-Mac.csv
-         │   │   ├──  myDict-20210628-1-p2c-win-utf8.txt
-         │   │   ├──  myDict-20210628-1-p2c-win.txt
-         │   │   ├──  myDict-20210628-1-p2c.csv
-         │   │   ├──  myDict-20210628-1.plist
-         │   │   ├──  myDict-20221001-1-win-to-Mac-c2p-p2c.csv
-         │   │   ├──  myDict-20221001-1-win-to-Mac-c2p.plist
-         │   │   ├──  myDict-20221001-1-win-to-Mac.csv
-         │   │   ├──  myDict-20221001-1-win.txt
-         │   │   ├──  myDict-20221001-1.csv
-         │   │   ├──  myDict-20221015-1-p2c-win-to-Mac-c2p.plist
-         │   │   ├──  myDict-20221015-1-p2c-win-to-Mac.csv
-         │   │   ├──  myDict-20221015-1-p2c-win.txt
-         │   │   ├──  myDict-20221015-1-p2c.csv
-         │   │   ├──  myDict-20221015-1.plist
-         │   │   ├──  myDict-20221015-2-win-to-Mac-c2p-p2c.csv
-         │   │   ├──  myDict-20221015-2-win-to-Mac-c2p.plist
-         │   │   ├──  myDict-20221015-2-win-to-Mac.csv
-         │   │   ├──  myDict-20221015-2-win.txt
-         │   │   ├──  myDict-20221015-2.csv
-         │   │   ├──  myDict-20221017-3-win-to-Mac-c2p-p2c.csv
-         │   │   ├──  myDict-20221017-3-win-to-Mac-c2p.plist
-         │   │   ├──  myDict-20221017-3-win-to-Mac.csv
-         │   │   ├──  myDict-20221017-3-win.txt
-         │   │   └──  myDict-20221017-3.csv
          │   ├──  README.md
-         │   ├──  foo.plist
-         │   ├──  myDict-20221017-4-win-to-Mac-c2p-p2c.csv
-         │   ├──  myDict-20221017-4-win-to-Mac-c2p.plist
-         │   ├──  myDict-20221017-4-win-to-Mac.csv
-         │   ├──  myDict-20221017-4-win.txt
-         │   ├──  myDict-20221017-4.csv
          │   ├──  myDict-20221111-5-win-to-Mac-c2p-p2c.csv
          │   ├──  myDict-20221111-5-win-to-Mac-c2p.plist
          │   ├──  myDict-20221111-5-win-to-Mac.csv
          │   ├──  myDict-20221111-5-win.txt
          │   ├──  myDict-20221111-5.csv
+         │   ├──  myDict-20221201-6-win-to-Mac.csv
+         │   ├──  myDict-20221201-6-win.txt
+         │   ├──  myDict-20221201-6.csv
+         │   ├──  myDict-20230515-7-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20230515-7-win-to-Mac-c2p.plist
+         │   ├──  myDict-20230515-7-win-to-Mac.csv
+         │   ├──  myDict-20230515-7-win.txt
+         │   ├──  myDict-20230515-7.csv
+         │   ├──  myDict-20230530-8-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20230530-8-win-to-Mac-c2p.plist
+         │   ├──  myDict-20230530-8-win-to-Mac.csv
+         │   ├──  myDict-20230530-8-win.txt
+         │   ├──  myDict-20230530-8.csv
+         │   ├──  myDict-20230608-1-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20230608-1-win-to-Mac-c2p.plist
+         │   ├──  myDict-20230608-1-win-to-Mac.csv
+         │   ├──  myDict-20230608-1-win.txt
+         │   ├──  myDict-20230608-1.csv
+         │   ├──  myDict-20230724-1-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20230724-1-win-to-Mac-c2p.plist
+         │   ├──  myDict-20230724-1-win-to-Mac.csv
+         │   ├──  myDict-20230724-1-win.txt
+         │   ├──  myDict-20230724-1.csv
+         │   ├──  myDict-20231019-1-win-to-Mac-c2p-p2c.csv
+         │   ├──  myDict-20231019-1-win-to-Mac-c2p.plist
+         │   ├──  myDict-20231019-1-win-to-Mac.csv
+         │   ├──  myDict-20231019-1-win.txt
+         │   ├──  myDict-20231019-1.csv
          │   ├──  test1(plist-to-plist).sh
          │   └──  test2(csv-to-csv).sh
          ├──  README.md
+         ├──  README.md.bak
          └──  Script/
              ├──  README.md
              ├──  csv-to-plist.sh
@@ -64,9 +74,9 @@ Private / Public Zone
              ├──  plist-to-csv.sh
              └──  winDictTXT2macDictCSV.sh
      
-     4 directories, 49 files (Tue Jan 31 05:58:50 JST 2023)
+     5 directories, 46 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--private--dotFiles
+    ./pZone--private--dotFiles
      ├──  ==PrivateRepository==
      ├──  README-dot-emacs.md
      ├──  README.md
@@ -96,6 +106,7 @@ Private / Public Zone
      │       └──  history.el
      ├──  dot.emacs.d(hohno-MBP-2022P)/
      │   ├──  Cask
+     │   ├──  auto-save-list/
      │   ├──  init.el
      │   ├──  init.el-20220816-233619
      │   └──  init.el-20220828-214458
@@ -133,12 +144,19 @@ Private / Public Zone
      └──  dot.ssh/
          └──  config
      
-     27 directories, 38 files (Tue Jan 31 05:58:50 JST 2023)
+     29 directories, 38 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--private--settings
+    ./pZone--private--settings
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
+     ├──  mail-on-hohno-AX3-2021K/
+     │   ├──  dot.getmail/
+     │   │   └──  getmailrc-ohnolab
+     │   ├──  dot.procmailrc
+     │   ├──  step0.sh
+     │   ├──  step1.sh
+     │   └──  step2.sh
      └──  secret/
          ├──  README.md
          ├──  dot.ssh/
@@ -147,15 +165,20 @@ Private / Public Zone
          │   ├──  dot.gitconfig
          │   └──  github
          ├──  moca/
-         │   ├──  20210621-moca.p12
-         │   ├──  moca-14260
-         │   └──  moca-14261
+         │   ├──  moCA-2106/
+         │   │   ├──  20210621-moca.p12
+         │   │   ├──  moca-14260
+         │   │   └──  moca-14261
+         │   └──  moCA-2306/
+         │       ├──  20230629-moca.p12
+         │       ├──  moCA-1515
+         │       └──  moCA-1516
          └──  secret-ap/
              └──  secret-ap.h
      
-     5 directories, 11 files (Tue Jan 31 05:58:50 JST 2023)
+     10 directories, 19 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--private--smallTools
+    ./pZone--private--smallTools
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -169,9 +192,9 @@ Private / Public Zone
          ├──  sakuraVPS2.sh
          └──  socksproxy.sh
      
-     1 directory, 11 files (Tue Jan 31 05:58:50 JST 2023)
+     2 directories, 11 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--private--wordbook
+    ./pZone--private--wordbook
      ├──  ==PrivateRepository==
      ├──  English/
      │   ├──  README.md
@@ -186,9 +209,9 @@ Private / Public Zone
          ├──  README.md
          └──  word2link.sh
      
-     4 directories, 9 files (Tue Jan 31 05:58:50 JST 2023)
+     5 directories, 9 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--public--dotFiles
+    ./pZone--public--dotFiles
      ├──  README.md
      ├──  README.md.old
      ├──  dot.bashrc_aliases
@@ -196,9 +219,16 @@ Private / Public Zone
      ├──  dot.inputrc
      └──  dot.screenrc
      
-     0 directories, 6 files (Tue Jan 31 05:58:50 JST 2023)
+     1 directory, 6 files (Tue Oct 24 05:56:32 JST 2023)
 
-     ./pZone--public--settings
+    ./pZone--public--myTrivia
+     ├──  README.md
+     ├──  README.md.old
+     └──  URLs.md
+     
+     1 directory, 3 files (Tue Oct 24 05:56:33 JST 2023)
+
+    ./pZone--public--settings
      ├──  README.md
      ├──  README.md.old
      ├──  VSCode/
@@ -207,9 +237,9 @@ Private / Public Zone
      └──  mosquitto/
          └──  mosquitto.conf
      
-     2 directories, 5 files (Tue Jan 31 05:58:50 JST 2023)
+     3 directories, 5 files (Tue Oct 24 05:56:33 JST 2023)
 
-     ./pZone--public--smallTools
+    ./pZone--public--smallTools
      ├──  README.md
      ├──  README.md.old
      └──  bin/
@@ -219,10 +249,14 @@ Private / Public Zone
          ├──  QRclock2G2.sh
          ├──  addpath.sh
          ├──  addts.sh
+         ├──  addts.sh.bak
          ├──  bkwt.sh
+         ├──  bkwt.sh.bak
          ├──  cdate
          ├──  h2z -> han2zen
          ├──  han2zen
+         ├──  jhdate
+         ├──  jhu
          ├──  mkqrcode-as-text.pl
          ├──  mkqrcode.pl
          ├──  mkqrcode.sh
@@ -231,6 +265,7 @@ Private / Public Zone
          ├──  p3top6.rb
          ├──  p6top3.rb
          ├──  pdf-to-2x5nameCards.sh
+         ├──  pdf-to-2x5nameCards.sh.bak
          ├──  say-e
          ├──  say-j
          ├──  scale
@@ -241,7 +276,7 @@ Private / Public Zone
          ├──  z2h -> zen2han
          └──  zen2han
      
-     1 directory, 29 files (Tue Jan 31 05:58:50 JST 2023)
+     2 directories, 34 files (Tue Oct 24 05:56:33 JST 2023)
 
 
 Note: URL = https://github.com/hohno-46466/pZone
